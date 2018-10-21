@@ -1,0 +1,64 @@
+h1{
+  font-weight: bold;
+}
+
+.jumbotron {
+    box-sizing: border-box;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  .main-button-container {
+    margin-top: 175px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .timer-p {
+    margin-top: 40px;
+  }
+  
+  .answer:hover {
+    background: #b11513;
+    color:white;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.8);
+   transform: translate(2px,5px); 
+  }
+  
+  .answer {
+    padding-top: 7px;
+    height: 45px;
+    color: black;
+    padding-left: 14px;
+    background-color: #ffffffdc;
+    border-radius: 6px;
+  }
+  
+  .img-wrong {
+    margin-top: 40px;
+  }
+
+  .img-right{
+    border: 5px solid white;
+    background-color: #c4c4d66b;
+  }
+  
+  .first-answer {
+    margin-top: 40px;
+  }
+  
+  .reset-button {
+    margin-top: 40px;
+  }
+  
+  .summary-correct {
+    margin-top: 40px;
+  }
+  
+  body {
+    background-image: url("https://www.lesechos.fr/medias/diaporamas/0603/DIAP0603172252_CCDF22/Ferrari-812-Superfast-INTRO.jpg");
+    background-size: cover;
+    color: black;
+  }
+  
